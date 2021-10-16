@@ -1,0 +1,53 @@
+Movel
+    Maleiro
+        Porta de Encaixar
+        Divisões Vertical 3
+        Altura: Padrão
+    Armario
+        Porta de correr 3 folhas
+        Divisão 1
+            Gaveteiro
+                Gaveta 1: xx altura
+                Gaveta 2: xx altura
+                Gaveta 2: xx altura
+            Estantes: 2
+            Cabideiro
+        Divisão 2:
+            Gaveteiro
+                Gaveta 1: xx altura
+                Gaveta 2: xx altura
+                Gaveta 2: xx altura
+            Cabideiro
+        Divisão 3:
+            Prateleira: 5
+
+
+
+Roteiro
+    classe material
+    metodos de corte
+    metodos de composição
+
+
+Quarto do Kaue
+    Tamanho 340, 280
+    Porta L:0 90
+    Janela a 71 cm da parede
+    folhas de 72 cm
+    Altura da Janela: 95 cm
+    Tamanho da janela em altura 115cm
+    altura do quarto 269 cm
+
+
+Espaço para o movel do Kaue
+    190 cm de frente
+    60 cm de profundidade
+    265 cm de altura
+
+Dicas de móvel
+    Maleiro H útil: 40
+
+Beirada da parede tem 3,5 cm da parede com 7 cm de altura
+
+
+DONE: Fazer a função que constroi os moveis devolver o volume util de uma das partes.
